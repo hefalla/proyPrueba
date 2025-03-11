@@ -7,3 +7,14 @@ body{
 	background-color: black;
 	color: white;
 }
+
+header{
+	color: red;
+	height: 400px;
+	font-size: 60px;
+}
+
+footer{
+	background-color: pink;
+	height: 30px;
+}
